@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
         routes: {
           "/": (context) => Body(),
           "/detail": (context) => Body(),
-          "/test": (context) => Body()
         },
         home: Home(),
         actions: {});
