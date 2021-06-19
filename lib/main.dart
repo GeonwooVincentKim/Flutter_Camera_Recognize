@@ -24,6 +24,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text("Testing.."),
         actions: [],
+        backgroundColor: Colors.amberAccent,
       ),
       body: Body(),
       backgroundColor: Colors.amber,

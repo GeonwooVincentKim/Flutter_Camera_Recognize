@@ -6,7 +6,11 @@ class Body extends StatelessWidget {
     return Container(
       color: Colors.black54,
       child: Center(
-        child: Text("Hello Flutter")
+        child: Column(
+          children: [
+            
+          ],
+        )
       )
     );
   }
